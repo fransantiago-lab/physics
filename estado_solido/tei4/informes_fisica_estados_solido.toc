@@ -1,0 +1,52 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Efecto Hall en p-Germanium.}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introducción}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Fundamento teórico}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Montaje experimental}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Propagación de errores}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Experimentos y resultados}{4}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Relación Potencial de Hall - Intensidad}{4}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Relación Potencial - Intensidad del campo magnético}{5}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Resistencia relativa vs intensidad del campo magnético}{5}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Variación del potencial de hall con la temperatura.}{6}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}Gap de energía en la zona de conductividad intrínseca.}{6}{subsection.1.5.5}%
+\contentsline {section}{\numberline {1.6}Discusión}{7}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Conclusiones}{8}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Referencias}{9}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Referencias}{9}{section.1.9}%
+\contentsline {chapter}{\numberline {2}Difracción de rayos X. Ley de Bragg.}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introducción}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Fundamento teórico}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Descripción del experimento}{12}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Propagación de errores}{12}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Resultados}{13}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Estructura cristalina del LiF. Difractogramas}{13}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Estructura cristalina del (KBr). Difractograma}{16}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Discusión}{16}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Conclusiones}{17}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Referencias}{17}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Transición de fase en un sistema bidimensional de partículas con potenciales de Lennard-Jones.}{18}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introducción}{18}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Fundamento teórico}{18}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}El potencial de Lennard-Jones}{18}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Algoritmo de Metropolis-Hasting}{19}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Parámetro orientacional de una partícula}{20}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Generación de simulaciones}{20}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Simulación 1: $\rho = 0.001$ \r A$^{-2}$, T = 1 K}{20}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Simulación 2: $\rho = 0.001$ \r A$^{-2}$, T = 100 K}{22}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Simulación 3: $\rho = 0.01$ \r A$^{-2}$, T = 1 K}{23}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Simulación 4: $\rho = 0.01$ \r A$^{-2}$, T = 100 K}{24}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Simulación 5: $\rho = 0.05$ \r A$^{-2}$, T = 1 K}{24}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Simulación 6: $\rho = 0.05$ \r A$^{-2}$, T = 100 K}{25}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.3.7}Simulaciones 7,8 y 9: $\rho = 0.1$ \r A$^{-2}$, T = 1 K, T =100, T=1000}{25}{subsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.3.8}Análisis del proceso de termalización}{28}{subsection.3.3.8}%
+\contentsline {section}{\numberline {3.4}Conclusiones}{28}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Referencias}{29}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Análisis de curvas características de una célula solar.}{30}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introducción}{30}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Fundamento teórico}{30}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Experimentos y resultados}{32}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Discusión}{36}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Conclusiones}{38}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Referencias}{39}{section.4.6}%
